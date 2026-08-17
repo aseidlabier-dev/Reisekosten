@@ -1,0 +1,21 @@
+{
+  "name": "Reisekosten App",
+  "short_name": "Reisekosten",
+  "description": "Erfassung und Verwaltung von Reisekosten",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./icon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "./icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
