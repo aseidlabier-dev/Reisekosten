@@ -1,4 +1,4 @@
-const CACHE_NAME = 'reisekosten-v1';
+const CACHE_NAME = 'reisekosten-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -6,6 +6,7 @@ const ASSETS_TO_CACHE = [
   './app.js',
   './db.js',
   './manifest.json',
+  './icon.jpg',
   'https://unpkg.com/dexie@3.2.4/dist/dexie.js',
   'https://unpkg.com/lucide@latest'
 ];
